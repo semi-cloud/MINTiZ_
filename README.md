@@ -6,8 +6,11 @@
 </div>
 
 ### ⚒️ 기술 스택
-- Java11, Spring Boot2.5.3, JPA, H2
-- Thymeleaf, CSS, Javascript, jQuery
+- **Java11, Spring Boot2.5.3, JPA, H2**
+- **Thymeleaf, CSS, Javascript, jQuery**
+### 📌 역할
+<img src="https://user-images.githubusercontent.com/71436576/147909694-a96c3b1f-4e68-40fd-b945-4bad49886fff.png" width=50% height=50%>
+
 
 ### 💡 주요 기능 
 
